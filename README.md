@@ -1,8 +1,7 @@
 # Human-Machine-Interfaces
-Set of Programs aimed to be used as Interface of major programs. 
+Set of Programs aimed to be used for monitoring parameters in scientific or industrial equipment. 
 
 The repository includes:
 
- - Human Machine Interfaces for digital tasks
- - Human Machine Interfaces for Control of Hardware
- - Human Machine Interfaces for Data Acquisition
+ - HMI/Backend for Control of Hardware
+ - HMI/Backend for Data Acquisition
