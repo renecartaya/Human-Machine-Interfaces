@@ -1,4 +1,5 @@
-# Human-Machine-Interfaces
+# Instrumentation systems and interfaces
+
 Set of Programs aimed to be used for monitoring parameters in scientific or industrial equipment. 
 
 The repository includes:
