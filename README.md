@@ -4,5 +4,7 @@ Set of Programs aimed to be used for monitoring parameters in scientific or indu
 
 The repository includes:
 
- - HMI/Backend for Control of Hardware
- - HMI/Backend for Data Acquisition
+ - ADC based in National Instruments hardware
+ - ADC based in ATmega microcontrollers
+
+The interfacing for ADC is developed separately in python, micropython and C.
