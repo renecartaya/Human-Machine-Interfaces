@@ -7,4 +7,4 @@ The repository includes:
  - ADC based in National Instruments hardware
  - ADC based in ATmega microcontrollers from Arduino
 
-The interfacing for ADC is developed separately in python, micropython and C.
+The interfacing for ADC is developed separately in python and C/C++.
