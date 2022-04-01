@@ -9,5 +9,5 @@ The repository includes:
 
 The interfacing for ADC includes the GUI developed in python and the embedded scripts in C/C++ for the microcontroller.
 
-![alt text](https://github.com/renecartaya/Instrumentation/blob/main/Signal%20Generator%20(Early%20Dev)/Signal_Generator_screenshot.png)
+![alt text](https://github.com/renecartaya/Instrumentation/blob/main/DAQ_app.png)
 
