@@ -9,7 +9,7 @@ The repository includes:
 
 The interfacing for ADC includes the GUI developed in python and the embedded scripts in C/C++ for the microcontroller.
 
-## Grafical User Interface
+## Graphical User Interface (GUI)
 
 ![alt text](https://github.com/renecartaya/Instrumentation/blob/main/DAQ_app.png)
 
