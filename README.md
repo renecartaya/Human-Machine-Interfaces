@@ -13,3 +13,7 @@ The interfacing for ADC includes the GUI developed in python and the embedded sc
 
 ![alt text](https://github.com/renecartaya/Instrumentation/blob/main/DAQ_app.png)
 
+## Observation
+
+This repository is under development.
+
