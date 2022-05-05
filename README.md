@@ -1,6 +1,6 @@
 # Instrumentation systems and interfaces
 
-Set of Programs aimed to be used for monitoring parameters in scientific or industrial equipment. 
+Repository aimed to the development of instrumentation systems for monitoring parameters in scientific or industrial environment. 
 
 The repository includes:
 
