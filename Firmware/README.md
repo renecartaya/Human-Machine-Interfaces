@@ -18,8 +18,8 @@ Easily extendable and customizable for specific sensor and instrument interfaces
 
 ###Prerequisites
 
-[List any hardware requirements]
-[List any software dependencies]
+Arduino UNO
+Arduino MEGA
 
 ###Installation
 
@@ -43,6 +43,8 @@ The project could be implemented as solution for DAQ for general or specific pur
 ###Acknowledgments
 
 ###Contact
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renecartaya)
 
 ###Changelog
 
